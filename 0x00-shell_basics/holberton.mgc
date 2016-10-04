@@ -1,0 +1,8 @@
+#!/bin/bash
+mylist=$(ls)
+for myfile in $mylist
+do
+  file $myfile
+  strings -a -t x $myfile | grep Holberton
+  echo "string Holberton detected at the end of $myfile data file,offset 0"
+done
