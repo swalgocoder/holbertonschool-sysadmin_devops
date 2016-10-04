@@ -1,0 +1,8 @@
+#!/bin/bash
+mkdir /tmp/u
+mylist=$(find . -type f -name "[[:upper:]]*")
+for myfile in $mylist
+do
+  echo $myfile
+  mv $myfile /tmp/u/$myfile
+done 
