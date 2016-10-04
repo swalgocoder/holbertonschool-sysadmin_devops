@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir test_welcome
+mkdir test_welcome/to
+mkdir test_welcome/to/holberton
