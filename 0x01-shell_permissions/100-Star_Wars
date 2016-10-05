@@ -1,0 +1,3 @@
+#!/bin/bash
+outube-dl http://https://www.youtube.com/watch?v=uEQBScx2nHg -o - | \
+    mplayer -vo aa -monitorpixelaspect 0.5 -
