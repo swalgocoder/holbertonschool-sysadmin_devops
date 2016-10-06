@@ -1,6 +1,2 @@
 #!/bin/bash
-mylist=$(find . -type f -name '*~')
-for myfile in $mylist
-do
-  rm $myfile
-done
+rm *~
