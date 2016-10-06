@@ -1,13 +1,2 @@
 #!/bin/bash
-DIR1=$(ls *.html)
-DIR2=$(ls *.html ..)
-
-for i in $DIR1; do
-    for j in $DIR2; do
-        if [[ $i == $j ]]; then
-            echo "$i == $j"
-        else
-            cp $i ../$i
-        fi
-    done
-done
+cp -u *.html ..
