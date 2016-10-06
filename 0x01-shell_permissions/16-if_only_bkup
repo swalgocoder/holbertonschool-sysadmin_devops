@@ -1,0 +1,6 @@
+#!/bin/bash
+myfile=$(find . -type f -user guillaume)
+for i in $myfile
+do
+  sudo chown betty $i
+done
