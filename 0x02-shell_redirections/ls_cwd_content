@@ -1,6 +1,6 @@
 total 268
-drwxrwxr-x 9 vagrant vagrant 4096 Oct  8 18:04 .
-drwxrwxr-x 6 vagrant vagrant 4096 Oct  7 15:55 ..
+drwxrwxr-x 9 vagrant vagrant 4096 Oct 11 02:19 .
+drwxrwxr-x 7 vagrant vagrant 4096 Oct 10 16:07 ..
 -rwxrw-r-- 1 vagrant vagrant   32 Oct  8 16:42 0-hello_world
 -rwxrw-r-- 1 vagrant vagrant   45 Oct  7 16:18 0-hello_world~
 -rwxrw-r-- 1 vagrant vagrant   47 Oct  7 18:59 0-hello_world_bkup
@@ -48,7 +48,7 @@ drwxrwxr-x 6 vagrant vagrant 4096 Oct  7 15:55 ..
 -rwxrw-r-- 1 vagrant vagrant  111 Oct  8 17:17 7-file
 drwxrwxrwx 2 vagrant vagrant 4096 Oct  7 23:21 7testdir
 -rwxrw-r-- 1 vagrant vagrant   36 Oct  8 17:36 #8-cwd_state#
--rwxrw-r-- 1 vagrant vagrant   36 Oct  8 16:51 8-cwd_state
+-rwxrw-r-- 1 vagrant vagrant   36 Oct 11 02:19 8-cwd_state
 -rwxrw-r-- 1 vagrant vagrant   37 Oct  7 19:01 8-cwd_state_bkup
 -rwxrw-r-- 1 vagrant vagrant   34 Oct  7 18:21 9-duplicate_last_line
 -rwxrw-r-- 1 vagrant vagrant   34 Oct  7 19:01 9-duplicate_last_line_bkup
@@ -60,7 +60,7 @@ drwxrwxr-x 2 vagrant vagrant 4096 Oct  7 19:12 .hidden_dir
 -rw-rw-r-- 1 vagrant vagrant   17 Oct  8 17:17 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
 -rw-rw-r-- 1 vagrant vagrant  147 Oct  7 18:23 iacta
 -rw-rw-r-- 1 vagrant vagrant  167 Oct  7 19:56 list
--rw-rw-r-- 1 vagrant vagrant    0 Oct  8 18:04 ls_cwd_content
+-rw-rw-r-- 1 vagrant vagrant    0 Oct 11 02:19 ls_cwd_content
 -rw-rw-r-- 1 vagrant vagrant 6524 Oct  8 00:16 nasa_19950801.tsv
 -rw-rw-r-- 1 vagrant vagrant 1950 Oct  8 00:15 nasa_19950801.tsv~
 -rw-rw-r-- 1 vagrant vagrant    0 Oct  7 21:57  newline
