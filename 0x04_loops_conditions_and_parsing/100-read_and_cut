@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 
-while read line
+while true
 do
-    echo "$line" | cut -d':' -f1,3,6
-done < /etc/passwd
+    cat /etc/passwd | cut -d':' -f1,3,6
+    break
+done
