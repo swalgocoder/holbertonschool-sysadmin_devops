@@ -1,9 +1,0 @@
-#!/usr/bin/env bash
-
-i=0
-while [ $i -le 12 ]; do
-    echo Hour: $i
-    printf "%s\n" [ 'seq 59' ]
-
-    let i+=1
-done
